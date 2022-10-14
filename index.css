@@ -1,0 +1,55 @@
+body {
+    background: linear-gradient(180deg, #035E65 13.67%, rgba(255, 242, 231, 0) 100%);
+    opacity: 0.9;
+    ;
+  }
+  #ga {
+    font-style: normal;
+  }
+  ul {
+    line-height: 40px;
+    color:darkred;
+    text-align:center;
+  }
+  .x1 {
+    font-size: 30px;
+  }
+  .x2 {
+    font-size: 20px;
+  }
+  .x3 {
+    font-size: 25px;
+  }
+  .x4 {
+    font-size: 35px;
+  }
+  #am {
+    text-decoration: underline;
+  }
+  #hab {
+    text-decoration: underline;
+  }
+  #blog {
+    text-decoration: underline;
+  }
+  #Noma {
+    font-size: 25px;
+    text-decoration: underline;
+  }
+  #x10 {
+    font-size: 18px;
+  }
+  header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-between;
+    background-color:darkcyan;
+    padding: 15px;
+  }
+  ol {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    font-size: 20px;
+  }
