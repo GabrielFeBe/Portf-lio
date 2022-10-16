@@ -61,7 +61,11 @@ body {
     text-align: center;
     font-weight: 900;
     border:0.5px solid white; ;
-    padding: 50px;
+    padding: 200px 100px;
+    background-image: url("solo-leveling.jpeg");
+    background-size:cover;
+    border-radius: 1000px;
+    margin: 50px;
   }
   p em {
     font-weight: bold;
