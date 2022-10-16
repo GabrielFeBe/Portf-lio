@@ -7,16 +7,14 @@ body {
     font-style: normal;
   }
   ul {
-    line-height: 40px;
+    line-height: 15px;
     color:azure;
-    text-align:center;
-    background-image: url("solo-blue-back.jpg");
-    background-size: 1790px 400px;
     border-radius: 10px;
     margin: 50px;
+    gap: 10px;
+    padding-left: 0; 
     display: flex;
     flex-direction: column;
-    gap: 10px;
 
   }
   .x1 {
@@ -98,4 +96,14 @@ body {
   .cabecalho {
     text-align: center;
     font-size: 35px;
+  }
+  .x1, .x2, .x3, .x4 {
+    list-style-position: inside;
+    list-style-position: inside;
+    background-image: url("blueflame.gif");
+    border-radius: 10px;
+    align-self:center;
+    padding: 10px 20px;
+    background-size: cover;
+    
   }
