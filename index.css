@@ -47,6 +47,10 @@ body {
     border: 0.5px solid white;
     border-radius: 4px;
     padding: 15px;
+    background-image:url("solo.gif") ;
+    background-size: contain;
+    color: azure;
+    
   }
   ol {
     display: flex;
