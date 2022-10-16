@@ -102,8 +102,9 @@ body {
     list-style-position: inside;
     background-image: url("blueflame.gif");
     border-radius: 10px;
-    align-self:center;
+    align-self:baseline;
     padding: 10px 20px;
     background-size: cover;
+    
     
   }
