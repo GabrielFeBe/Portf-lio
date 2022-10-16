@@ -8,20 +8,28 @@ body {
   }
   ul {
     line-height: 40px;
-    color:darkred;
+    color:azure;
     text-align:center;
+    background-image: url("solo-blue-back.jpg");
+    background-size: 1790px 400px;
+    border-radius: 10px;
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
   }
   .x1 {
-    font-size: 20px;
+    font-size: 31px;
   }
   .x2 {
-    font-size: 20px;
+    font-size: 30px;
   }
   .x3 {
-    font-size: 22px;
+    font-size: 32px;
   }
   .x4 {
-    font-size: 25px;
+    font-size: 35px;
   }
   #am {
     text-decoration: underline;
@@ -48,7 +56,6 @@ body {
     border-radius: 4px;
     padding: 15px;
     background-image:url("solo.gif") ;
-    background-size: contain;
     color: azure;
     
   }
@@ -87,4 +94,8 @@ body {
   }
   h2 {
     font-size: 40px;
+  }
+  .cabecalho {
+    text-align: center;
+    font-size: 35px;
   }
