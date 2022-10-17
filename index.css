@@ -163,3 +163,7 @@ body {
   background-size: cover;
   color: red;
 }
+.imagens-blogs:active {
+  background-image: url("hanabi2.gif");
+  background-size: cover;
+}
