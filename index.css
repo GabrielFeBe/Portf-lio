@@ -124,9 +124,10 @@ body {
     width: 30px;  
   }
   .mini-shiro {
-    width: 360px;
+    width: 300px;
     float:right;
-    margin-right: 300px;
+    margin-right: 100px;
+    padding: 20px 300px 300px 400px;
     
   }
   .descriçao {
@@ -164,9 +165,9 @@ body {
   background-image: url("hanabi2.gif");
   background-size: cover;
 }
-.mini-shiro:hover{
+.mini-shiro:hover {
   background-image: url("shiro-no.gif");
-
+  background-size: cover;
 }
 .nome-gabriel{
   padding: 0em 20px 2em;
