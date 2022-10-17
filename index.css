@@ -90,7 +90,6 @@ body {
 
   .x1, .x2, .x3, .x4 {
     list-style-position: inside;
-    list-style-position: inside;
     background-image: url("blueflame.gif");
     border-radius: 10px;
     align-self:baseline;
