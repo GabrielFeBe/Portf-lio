@@ -4,10 +4,6 @@ body {
     font-family:'Pinyon Script', cursive;;
   }
 
-  #ga {
-    font-style: normal;
-  }
-
   ul {
     line-height: 15px;
     color:darkorange;
@@ -33,10 +29,6 @@ body {
 
   .x4 {
     font-size: 35px;
-  }
-
-  #x10 {
-    font-size: 18px;
   }
 
   header {
@@ -110,6 +102,7 @@ body {
     font-size: 30px;
     text-decoration: underline;
     padding: 10px;
+    margin-bottom: 50px;
   }
 
   .imagens-blogs:hover {
@@ -130,3 +123,34 @@ body {
     margin-right: 300px;
     
   }
+  .descriçao {
+    position: absolute;
+    left: 1100px;
+    top: 1000px;
+    border: 1px solid azure;
+  }
+  #x10 {
+    top: 1090px;
+  }
+  p {
+    font-size: 30px;
+  }
+  .central {
+    border: 1px solid azure;
+    width: fit-content;
+    display: flex;
+    position: absolute;
+    left:850px;
+    top: 1720px;
+  }
+  #shiro {
+    margin-bottom: 300px;
+    margin-top: 100px;
+    background-image:url("hanabi.gif");
+    background-size: cover;
+    border: 1px solid azure;
+  }
+#Noma {
+  top: 1600px;
+  left: 950px;
+}
