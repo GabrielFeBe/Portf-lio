@@ -127,7 +127,9 @@ body {
     width: 300px;
     float:right;
     margin-right: 100px;
-    padding: 20px 300px 300px 400px;
+    transform: scale(1);
+    transition:transform 5000ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    
     
   }
   .descriçao {
@@ -166,8 +168,8 @@ body {
   background-size: cover;
 }
 .mini-shiro:hover {
-  background-image: url("shiro-no.gif");
-  background-size: cover;
+  transform: scale(3) rotate(3620deg);
+  
 }
 .nome-gabriel{
   padding: 0em 20px 2em;
