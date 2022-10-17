@@ -3,9 +3,11 @@ body {
     opacity: 0.9;
     font-family:'Pinyon Script', cursive;;
   }
+
   #ga {
     font-style: normal;
   }
+
   ul {
     line-height: 15px;
     color:darkorange;
@@ -15,23 +17,28 @@ body {
     padding-left: 0; 
     display: flex;
     flex-direction: column;
-
   }
+
   .x1 {
     font-size: 31px;
   }
+
   .x2 {
     font-size: 30px;
   }
+
   .x3 {
     font-size: 32px;
   }
+
   .x4 {
     font-size: 35px;
   }
+
   #x10 {
     font-size: 18px;
   }
+
   header {
     display: flex;
     flex-direction: row;
@@ -41,17 +48,19 @@ body {
     border-radius: 4px;
     padding: 15px;
     background-image:url("solo.gif") ;
-    color: azure;
-    
+    color: azure; 
   }
+
   ol {
     display: flex;
     gap: 80px;
     justify-content: space-evenly;
     }
+
   img {
     padding: 20px;
   }
+
   h1 {
     font-size: 70px;
     text-align: center;
@@ -63,9 +72,11 @@ body {
     border-radius: 1000px;
     margin: 50px;
   }
+
   p em {
     font-weight: bold;
   }
+
   .but {
     display: flex;
     background-color: rgb(83, 212, 124);
@@ -74,16 +85,18 @@ body {
     padding: 6px 10px;
     text-decoration: none;
     line-height: 38px;
-    font-size: 24px;
-    
+    font-size: 24px;  
   }
+
   h2 {
     font-size: 40px;
   }
+
   .cabecalho {
     text-align: center;
     font-size: 35px;
   }
+
   .x1, .x2, .x3, .x4 {
     list-style-position: inside;
     list-style-position: inside;
@@ -93,11 +106,16 @@ body {
     padding: 10px 20px;
     background-size: cover;
   }
+
   h3 {
     font-size: 30px;
     text-decoration: underline;
     padding: 10px;
   }
+
   .imagens-blogs:hover {
    padding:10px;
+   border:0.5px solid black;
+   display: inline-block;
+   width: auto;
   }
