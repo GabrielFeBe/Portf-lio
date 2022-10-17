@@ -156,6 +156,7 @@ body {
 .but:hover {
   background-image: url("blueflame.gif");
   background-size: cover;
+  color:mediumvioletred;
 }
 .but:active {
   background-image: url("flame.gif");
