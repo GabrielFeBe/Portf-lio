@@ -119,3 +119,8 @@ body {
    display: inline-block;
    width: auto;
   }
+  .altura {
+    height:auto;
+    width: 30px;
+    
+  }
