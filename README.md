@@ -1,2 +1,2 @@
 construindo Portfólio Web de Gabriel Fernandes.
-LINK: https://gabrielfebe.github.io/
+LINK do portfólio: https://gabrielfebe.github.io/ 
