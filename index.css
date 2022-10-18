@@ -37,7 +37,6 @@ body {
 
   .indice {
     display: flex;
-    flex-direction: row;
     align-items: center;
     justify-content:space-between;
     border: 0.5px solid white;
@@ -181,11 +180,7 @@ body {
   text-align: center;
   border: 1px solid black;
 }
-.links-blogs {
-  display: flex;
-  flex-direction:column;
-  flex-wrap:wrap;
-  padding: 0px 200px;
-  gap: 30px;
-  align-content: center;
+
+.links-blogs a {
+  padding: 50px;
 }
