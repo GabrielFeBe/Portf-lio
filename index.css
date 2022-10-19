@@ -125,7 +125,7 @@ body {
   .mini-shiro {
     width: 300px;
     float:right;
-    margin-right: 100px;
+    margin-right: 200px;
     transform: scale(1);
     transition:transform 5000ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
     
@@ -183,4 +183,18 @@ body {
 
 .links-blogs a {
   padding: 50px;
+}
+.footer {
+  min-height: auto;
+  color: darkorange;
+}
+footer {
+  background-image: url("pride.png");
+  background-size: cover;
+  display: flex;
+}
+.redes-sociais {
+display: inline-block;
+padding: 50px;
+  
 }
